@@ -3,10 +3,10 @@
 
 instalacion de modulo:
 ```bash
-  $npm install paketin
+  $npm install test
 ```
 uso del modulo:
 ```js
-const paketin=require('paketin');
-let frase=paketin
+const test=require('test');
+let frase=test
 ```
