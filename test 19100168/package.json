@@ -1,0 +1,12 @@
+{
+  "name": "modulo-js",
+  "version": "1.0.0",
+  "description": "instalacion de modulo:\r ```bash\r   $npm install paketin\r ```\r uso del modulo:\r ```js\r const paketin=require('paketin');\r let frase=paketin\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
