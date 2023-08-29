@@ -3,10 +3,10 @@
 
 instalacion de modulo:
 ```bash
-  $npm install test
+  $npm install testeoAle
 ```
 uso del modulo:
 ```js
-const test=require('test');
-let frase=test
+const testeoAle=require('testeoAle');
+let frase=testeoAle
 ```
